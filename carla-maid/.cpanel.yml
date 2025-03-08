@@ -2,7 +2,7 @@
 deployment:
   tasks:
     # Set environment variables for deployment
-    - export DEPLOYMENT_SOURCE=/home/carlamai/repositories/carlaMaid/carla-maid/
+    - export DEPLOYMENT_SOURCE=/home/carlamai/repositories/carlaMaids/carla-maid/
     - export DEPLOYMENT_TARGET=/home/carlamai/public_html/
 
     # Navigate to the source directory
